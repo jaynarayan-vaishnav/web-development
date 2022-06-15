@@ -2,6 +2,8 @@ body{
     margin-top: 0px;
     margin-left: 0px;
     margin-right: 0px;
+    text-align: center;
+    font-family: serif;
 }
 div{
     background-color: #D3EBCD;
@@ -10,23 +12,33 @@ h1{
     margin-top: 0px;
     
 }
+.top-cloud{
+    position: relative;
+    top: 30%;
+    left: 20%;
+}
+.bottom-cloud{
+    position: absolute;
+}
 .top-container{
-    width: 200px;
-    height: 200px;
-    border: solid 10px;
-    padding: 20px;
+    width: ;
+    height: ;
+    border: ;
+    padding: ;
 }
 .middle-container{
-    background-color: red;
+    background-color:;
     width: 200px;
     height: 200px;
-    border: solid 20px;
-    margin-left: 260px;
+    border: ;
+    margin-left:;
 }
 .bottom-container{
-    background-color: blue;
+    background-color: ;
     width: 200px;
     height: 200px;
-    border: solid 10px;
-    margin-left: 500px;
+
+}
+.pro{
+    text-decoration: underline;
 }
