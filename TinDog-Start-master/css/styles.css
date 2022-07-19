@@ -2,18 +2,18 @@ body{
     font-family: "Montserrat";
     text-align: center;
 }
-
 h1, h2, h3, h4, h5, h6{
     font-family: "Montserrat";
     font-weight: bold;
 }
 
 #title{
+    text-align: left;
     background-color: #ff4c68;
     color: #fff;
 }
 .container-fluid{
-    padding: 3% 15% 7%;
+    padding: 7% 15% ;
 }
 
 /* Heading */
@@ -112,9 +112,7 @@ h1, h2, h3, h4, h5, h6{
 
 /* carousel */
 
-.carousel-item{
-    padding: 7% 15%;
-}
+
 
 /* pricing section */
 #pricing{
@@ -131,12 +129,9 @@ h1, h2, h3, h4, h5, h6{
 #cta{
     background-color: #ff4c68;
     color: #fff;
-    padding: 7% 15%;
 }
 /* footer */
-#footer{
-    padding: 7% 15%;
-}
+
 .last-icon{
     margin: 20px 10px;
 }
