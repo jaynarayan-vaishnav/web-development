@@ -9,10 +9,6 @@ body{
     padding: 3% 15% 7%;
 }
 h1{
-    font-family: "Montserrat";
-    font-weight: 900;
-    font-size: 3rem;
-    line-height: 1.5;
 }
 h2{
     font-family: "Montserrat";
@@ -24,6 +20,14 @@ h3{
     font-family: "Montserrat";
     font-weight: bold;
     font-size: 1.5rem;
+}
+
+/* Heading */
+.big-heading{
+    font-family: "Montserrat";
+    font-weight: 900;
+    font-size: 3rem;
+    line-height: 1.5;
 }
 
 /* navigaation bar */
