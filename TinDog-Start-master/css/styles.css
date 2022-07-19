@@ -28,6 +28,11 @@ h3{
     line-height: 1.5;
 }
 
+.section-heading{
+    font-size: 3rem;
+    line-height: 1.5;
+}
+
 /* navigaation bar */
 .navbar{
     padding-bottom: 4.5rem;
