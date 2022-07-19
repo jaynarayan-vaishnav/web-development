@@ -6,9 +6,6 @@ h1, h2, h3, h4, h5, h6{
     font-weight: bold;
 }
 
-h3{
-    font-size: 1.5rem;
-}
 #title{
     background-color: #ff4c68;
     color: #fff;
@@ -138,11 +135,6 @@ h3{
     color: #fff;
     padding: 7% 15%;
     text-align: center;
-}
-.cta-heading{
-    font-family: "Montserrat";
-    font-size:3.5rem;
-    line-height: 1.5;
 }
 /* footer */
 #footer{
